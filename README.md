@@ -1,2 +1,5 @@
-﻿# CodeWars Solution (JS)
- Where I store my codewars solutions purely for +1 repo
+# CodeWars Solution (JS)
+A repo for all JS Codewars solutions 
+
+Codewars Profile: \
+https://www.codewars.com/users/DylonTan/
